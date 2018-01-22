@@ -83,7 +83,6 @@ public class Homework1 {
 		infix(root);
         System.out.println("=" + root.getNodeValue());
         
-        TreeIconDemo tree = new TreeIconDemo(root);
-        tree.main(root);
+        TreeIconDemo.main(root);
 	}
 }
