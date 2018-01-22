@@ -1,4 +1,3 @@
-import java.util.Scanner;
 import java.util.Stack;
 import javax.imageio.metadata.IIOMetadataNode;
 import org.w3c.dom.Node;
